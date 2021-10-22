@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ItsMeDMark
 - 👀 I’m interested in Web Dev and App Dev.
 - 🌱 I’m currently learning Web Dev.
+-currently working some of my first work.
   
 
 <!---
